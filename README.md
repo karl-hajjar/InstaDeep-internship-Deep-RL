@@ -1,2 +1,2 @@
 # InstaDeep-internship-Deep-RL
-This repository contains the report of the internship I did within the AI research team at InstaDeep in London. 
+This repository contains the report of the internship I did within the AI research team at InstaDeep in London. During my internship, we developed methods for solving single-player games using self-play reinforcement learning with neural networks and Monte Carlo tree search. We applied our method on combinatorial optimization problems, namely the bin packing and glass cutting problems. We also published on arXiv a paper describing our research : https://arxiv.org/pdf/1807.01672.pdf.
